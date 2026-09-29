@@ -1,0 +1,76 @@
+1
+00:00:00,050 --> 00:00:06,987
+Welcome to AegisOR: an autonomous ambient clinical intelligence guardrail powered by AssemblyAI.
+
+2
+00:00:06,987 --> 00:00:19,212
+AegisOR listens to operating room communications, validates surgical safety checklists in real time, enforces closed-loop communication, and produces an immutable operative audit ledger.
+
+3
+00:00:19,320 --> 00:00:24,357
+Before the procedure commences, we configure clinical parameters in Tab 0.
+
+4
+00:00:24,357 --> 00:00:31,219
+Here, we select our specialty preset for Laparoscopic General Surgery and load procedural terms.
+
+5
+00:00:31,219 --> 00:00:40,607
+This primes the speech recognition engine with custom acoustic probability boosting for critical landmarks like Calot's triangle and the cystic duct.
+
+6
+00:00:40,607 --> 00:00:48,257
+Clicking 'Save and Update AI Lexicon' activates custom surgical vocabulary boosting instantly.
+
+7
+00:00:48,359 --> 00:00:55,797
+Moving to Tab 1, AegisOR enforces The Joint Commission Universal Protocol before surgical incision.
+
+8
+00:00:55,797 --> 00:01:00,785
+When the surgical team reviews the checklist, we execute pre-op verification.
+
+9
+00:01:00,785 --> 00:01:08,972
+AegisOR validates patient identity, procedure, operative site, allergies, and prophylactic antibiotic timing.
+
+10
+00:01:08,972 --> 00:01:19,960
+The safety status switches to 'Incision Authorized', and multi-speaker diarization confirms unanimous agreement across the surgeon, anesthesiologist, and circulating nurse.
+
+11
+00:01:20,060 --> 00:01:25,060
+Once surgery is underway, Tab 2 tracks high-acuity verbal orders.
+
+12
+00:01:25,060 --> 00:01:35,622
+When the surgeon directs five thousand units of Heparin or fentanyl for patient comfort, AegisOR reconciles the directive against the explicit verbal read-back from nursing.
+
+13
+00:01:35,622 --> 00:01:44,972
+The active communication ledger confirms order closure in real time while extracting pharmaceutical dosages and surgical instruments automatically.
+
+14
+00:01:45,090 --> 00:01:50,140
+At the conclusion of the case, Tab 3 captures the surgical sign-out.
+
+15
+00:01:50,140 --> 00:01:56,102
+Sponge, needle, and instrument counts are verified, and specimen labeling is logged.
+
+16
+00:01:56,102 --> 00:02:11,727
+With one click on 'Generate Operative Audit Report', AegisOR compiles the complete operative record, aggregating pre-op checklist adherence, timestamped medication read-backs, and an executive clinical briefing ready for hospital EHR systems.
+
+17
+00:02:11,830 --> 00:02:18,542
+In summary, AegisOR transforms ambient operating room audio into an active patient safety shield.
+
+18
+00:02:18,542 --> 00:02:31,642
+It prevents never-events, safeguards healthcare institutions against malpractice liability, and eliminates manual computer interactions so surgical teams can concentrate entirely on patient care.
+
+19
+00:02:31,642 --> 00:02:32,805
+Thank you for watching.
+

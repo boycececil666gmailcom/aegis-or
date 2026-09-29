@@ -1,0 +1,6 @@
+file 'C:/Users/boyce/OneDrive/Desktop/AegisOR/build_video/01_intro.mp3'
+file 'C:/Users/boyce/OneDrive/Desktop/AegisOR/build_video/02_screen0.mp3'
+file 'C:/Users/boyce/OneDrive/Desktop/AegisOR/build_video/03_screen1.mp3'
+file 'C:/Users/boyce/OneDrive/Desktop/AegisOR/build_video/04_screen2.mp3'
+file 'C:/Users/boyce/OneDrive/Desktop/AegisOR/build_video/05_screen3.mp3'
+file 'C:/Users/boyce/OneDrive/Desktop/AegisOR/build_video/06_summary.mp3'
